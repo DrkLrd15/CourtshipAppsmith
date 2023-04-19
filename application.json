@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "id": "PlayersPost",
+      "isDefault": true
+    },
+    {
+      "id": "PlayersDelete",
+      "isDefault": false
+    },
+    {
+      "id": "PlayersPut",
+      "isDefault": false
+    },
+    {
+      "id": "CoachGetPlayer",
+      "isDefault": false
+    },
+    {
+      "id": "CoachPut",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#D9E7FF",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
